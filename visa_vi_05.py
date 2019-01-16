@@ -24,7 +24,6 @@ visa_converted[visa_converted.loc[:] == 'z'].count()
 # Replacing 'z' with '0'
 # Created a list to iterate
 years = list(visa_converted)
-# years = ['2005','2006','2007','2008','2009','2010','2011','2012','2013','2014','2015','2016','2017']
 
 visa_converted[years] = visa_converted[years].replace("z","0")
 
