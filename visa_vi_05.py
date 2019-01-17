@@ -11,8 +11,12 @@ visa = pd.read_csv("vi_05.csv")
 # All columns are non-null objects
 # Removed all commas
 # Tried to convert columns to int, error showed some cells contain 'z'
+
 # Replaced all 'z' with 0
 # Converted all columns to int
+
+# EDIT v1
+# Need to try to_numeric
 
 
 # Grabbing all the years column
