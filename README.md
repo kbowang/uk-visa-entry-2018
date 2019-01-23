@@ -1,5 +1,5 @@
 # uk-visa-entry-2018
-Data Science test project
+Data Science Project 1
 
 - Exported sheet vi_05 from ods file to csv manually
 - Attemped to clean data
